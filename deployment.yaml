@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: app
-        image: shubham379/app:9d02d8b
+        image: shubham379/app:b8de830
         ports:
         - containerPort: 3000
